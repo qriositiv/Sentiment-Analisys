@@ -1,0 +1,82 @@
+Meeting notes 09-08:
+
+Decided on team name: eMotionLess
+
+Project: Focus on one language first, make hand-made data set.
+Later split the work so someone is responsible for generating data sets (from real websites) and others are responsible for sentiment analysis.
+
+Things done during the meeting: Time tracking is setup (manual entries to online excel sheet).
+GitHub reposirory is also setup.
+
+For next time: Each member should make a draft document that includes 
+1) vision of the project results,
+2) preliminary analysis of the problem, functional requirements,
+3) meeting notes (group meeting),
+4) and a list of possible questions for the meeting with the client/supervisor.
+
+Next meeting: Monday morning before lectures.
+
+
+
+Meeting notes 09-11:
+
+Vision of the project result: Anupras's was closest to what we want. We just needed to mention six main emotions.
+
+Premilinary analysis of the problem, functional requirements: Anupras's again.
+
+Questions for the client/supervisor we had: Are we free to choose websites it supports? Should we have forbidden articles (censorship)?
+Can we use data scraping tools or should we make our own? Should we go with machine learning or word based aproach?
+
+
+Extras:
+
+	News sites: Compare Delfi to LRT. Privately owned vs national funded (More emotianal vs less?)
+	preliminary roles: Lead programmer - Anupras, Note taker / coordinator - Domas.
+	
+Next meeting: Review of the final draft. Meeting Wednesday after lectures.
+
+
+
+Meeting notes 09-13:
+
+We overviewed Anupras's final draft and went through it to make it our final document.
+
+Next meeting is Friday morning (weekly). Nothing yet planned for it.
+
+Meeting notes 09-18:
+
+Meeting called by:
+Type of meeting:
+Facilitator: Anupras
+Note taker: Domas 
+Timekeeper: Arsenij
+
+Agenda item: Group contract
+Discussion:
+Was on our groups contract.
+Conclusion:
+Decided on final draft of the team contract.
+
+Meeting notes 09-20 (In person):
+
+Type of meeting: Overview
+Facilitator: Anupras
+Timekeeper : Arsenij
+Note taker : Domas
+
+Agenda: Gruop contract and prgoramming rules, milestones.
+
+Discussion: We went over our group contract.  Milestones (not final) as well. Also programming rules.
+
+Conclusion: We made our final group contract and signed it. Went trough documentation that is still being made. Language c++.
+
+Meeting notes 09-22 (Remote):
+
+Type of meeting: Overview
+Facilitator: Anupras
+Timekeeper : Arsenij
+Note taker : Domas
+
+Agenda: Milestones
+
+Discussion: How to set up data base. Looked over our milestones.

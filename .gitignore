@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/x64/
+/src/Debug/
+/src/.vs/SentimentAnalysis/v17/
+/src/.vs/SentimentAnalysis/FileContentIndex/
+/src/.vs/cmake.db
+/.vs/Problem-based-learning/FileContentIndex
+/.vs/Problem-based-learning/v17
+/.vs/SentimentAnalysis/v17/
+/.vs/SentimentAnalysis/FileContentIndex/
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite-journal
+/.vs/cmake.db
+/srcTests/x64/
+/out/
+/srcTests/x64/Debug
+*.wsuo
+
+*.log
